@@ -10,4 +10,4 @@ include_directories(vendor/glfw/include vendor/glad/include)
 find_package(OpenGL REQUIRED)
 
 add_executable(cse420-lab2 src/main.cpp vendor/glad/src/glad.c)
-target_link_libraries(cse420-lab2 glfw OpenGL)
+target_link_libraries(cse420-lab2 glfw)

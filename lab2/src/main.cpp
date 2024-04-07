@@ -146,7 +146,7 @@ int main()
         //note: VAO will have the EBO
         glUseProgram(shaderProgram);    //use our shader program
         glBindVertexArray(VAO);         //bind our VAO to bring in all vertex attribute settings, VBOs, etc
-        glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
+        glDrawElements(GL_TRIANGLES, sizeof(indices) / sizeof(indices[0]), GL_UNSIGNED_INT, 0);
         glBindVertexArray(0);           //unbind VAO
 
         //=========================

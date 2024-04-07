@@ -12,3 +12,5 @@ From this point forward, on Linux you could use `make` or on Windows you could u
 ## Screenshots
 ![CSE420 - Lab 2](https://raw.githubusercontent.com/s1nisteR/cg-lab/main/img/Screenshot%20from%202024-03-18%2019-26-47.png)
 
+![CSE420 - Lab 3](https://raw.githubusercontent.com/s1nisteR/cg-lab/main/img/Screenshot%20from%202024-04-07%2022-23-42.png)
+

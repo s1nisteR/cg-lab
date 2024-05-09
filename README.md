@@ -14,3 +14,4 @@ From this point forward, on Linux you could use `make` or on Windows you could u
 
 ![CSE420 - Lab 3](https://raw.githubusercontent.com/s1nisteR/cg-lab/main/img/Screenshot%20from%202024-04-07%2022-23-42.png)
 
+![CSE420 - Lab 4](https://raw.githubusercontent.com/s1nisteR/cg-lab/main/img/Screenshot%20from%202024-05-09%2022-34-40.png)

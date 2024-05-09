@@ -4,3 +4,6 @@
 [submodule "lab3/vendor/glfw"]
 	path = lab3/vendor/glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "lab4/vendor/stb"]
+	path = lab4/vendor/stb
+	url = https://github.com/nothings/stb.git

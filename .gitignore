@@ -36,5 +36,5 @@ build/
 .vs/
 out/
 
-.zip
-.rar
+*.zip
+*.rar

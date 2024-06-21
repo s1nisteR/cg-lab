@@ -7,3 +7,9 @@
 [submodule "lab4/vendor/stb"]
 	path = lab4/vendor/stb
 	url = https://github.com/nothings/stb.git
+[submodule "vulk/vendor/vk-bootstrap"]
+	path = vulk/vendor/vk-bootstrap
+	url = https://github.com/charles-lunarg/vk-bootstrap
+[submodule "vulk/vendor/glfw"]
+	path = vulk/vendor/glfw
+	url = https://github.com/glfw/glfw.git
